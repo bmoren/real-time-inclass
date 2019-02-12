@@ -15,7 +15,7 @@
 + `ctrl + c` : to exit things
 
 
-##commands to treat with respect (to be scared of):
+### commands to treat with respect (to be scared of):
 + `rm : remove` : rm /path/to/file * no warning!
 + `rm -rf` : remove directory : rm /path/to/directory * no warning!
 
@@ -25,3 +25,6 @@
 ### node specific stuff:
 + `node -v` : what version of node am I using? / is it loaded?
 + `node` : run a node application : ususaly with a file path like: `node app.js`
++ `npm` : node package manager, install packages/plugins for node (other peoples code so we dont have to write as much)
++ `npm install package-name`
++ `npm init` : start a new node project and generate a package.json file
